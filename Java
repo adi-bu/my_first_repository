@@ -1,5 +1,6 @@
 //Hello World in Java
 
+//We can use required package here
 import java.io.*;
 
 class GFG {
